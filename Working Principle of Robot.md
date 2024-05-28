@@ -1,6 +1,6 @@
-![[Pasted image 20240520230020.png]]
-![[Pasted image 20240520230943.png]]
-![[Pasted image 20240520230426.png]]
+![Pasted image 20240520230020](Pasted%20image%2020240520230020.png)
+![Pasted image 20240520230943](Pasted%20image%2020240520230943.png)
+![Pasted image 20240520230426](Pasted%20image%2020240520230426.png)
 
 ### Construction of Industrial Robots
 

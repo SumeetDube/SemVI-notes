@@ -1,8 +1,8 @@
 
-![[Pasted image 20240520220158.png]]
-![[Pasted image 20240520220210.png]]
-![[Pasted image 20240520220227.png]]
-![[Pasted image 20240520220255.png]]
+![Pasted image 20240520220158](Pasted%20image%2020240520220158.png)
+![Pasted image 20240520220210](Pasted%20image%2020240520220210.png)
+![Pasted image 20240520220227](Pasted%20image%2020240520220227.png)
+![Pasted image 20240520220255](Pasted%20image%2020240520220255.png)
 
 --------------
 Enterprise Resource Planning (ERP) is a type of software system that helps organizations manage and integrate their core business processes. An ERP system facilitates the flow of information between all business functions inside the boundaries of the organization and manages connections to outside stakeholders.

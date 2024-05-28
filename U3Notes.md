@@ -42,7 +42,7 @@ In this way, the characteristics of “non-measurable success” and “reasonab
 
 - **Problem-independent design**: the possibility of using the same metaheuristic algorithm to solve a myriad of problems by just tuning its inputs
 
-Famous examples of metaheuristics are [genetic algorithms](https://www.baeldung.com/cs/nature-inspired-algorithms#1-genetic-algorithm), [particle swarm optimization](https://www.baeldung.com/cs/nature-inspired-algorithms#2-particle-swarm-optimization), [simulated annealing](https://www.baeldung.com/java-simulated-annealing-for-traveling-salesman#overview-1), and variable neighborhood search. However, of course, [there exist many more](https://www.baeldung.com/cs/nature-inspired-algorithms).
+Famous examples of metaheuristics are [](https://www.baeldung.com/cs/nature-inspired-algorithms#1-genetic-algorithm), [](https://www.baeldung.com/cs/nature-inspired-algorithms#2-particle-swarm-optimization), [](https://www.baeldung.com/java-simulated-annealing-for-traveling-salesman#overview-1), and variable neighborhood search. However, of course, [there exist many more](https://www.baeldung.com/cs/nature-inspired-algorithms).
 
 Moreover, according to how a metaheuristic works to find results for a problem, we can divide them into three categories:
 
@@ -64,16 +64,16 @@ The following image shows a simple example of a traveling salesman problem being
 | **Examples**       | Greedy algorithms, local search algorithms, construction heuristics.                                                                 | Genetic algorithms, simulated annealing, tabu search, ant colony optimization.                                                           |
 |                    | hill climbing, branch and bound, best first search,                                                                                  | Simulated annealing, Tabu search, ant colony optimization, real coded genetic algorithm.                                                 |
 |                    |                                                                                                                                      |                                                                                                                                          |
-![[quicklatex.com-448802b77022901f606d1f331ab5701c_l3 1.svg]]
+![quicklatex.com-448802b77022901f606d1f331ab5701c_l3 1](quicklatex.com-448802b77022901f606d1f331ab5701c_l3%201.svg)
 
 ## Heuristics
-1. [[Hill Climbing]]
-2. [[branch and bound]]
-3. [[best first search,]]
+1. [Hill Climbing](Hill%20Climbing.md)
+2. [branch and bound](branch%20and%20bound.md)
+3. [best first search,](best%20first%20search,.md)
 
 # Metaheuristics
 
-[[Simulated annealing]]
-[[Tabu search]]
-[[ant colony optimization]]
-[[Real Coded Genetic Algorithm]]
+[Simulated annealing](Simulated%20annealing.md)
+[Tabu search](Tabu%20search.md)
+[ant colony optimization](ant%20colony%20optimization.md)
+[Real Coded Genetic Algorithm](Real%20Coded%20Genetic%20Algorithm.md)

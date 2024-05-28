@@ -1,4 +1,4 @@
-![[Pasted image 20240516155052.png]]
+![Pasted image 20240516155052](Pasted%20image%2020240516155052.png)
 Region growing is a method used in image processing and computer vision for segmenting an image into meaningful regions based on certain predefined criteria. The basic idea behind region growing is to start from seed points (or seed regions) and iteratively grow these regions by adding neighboring pixels or regions that have similar properties or characteristics. Here's a step-by-step explanation of how region growing works for image segmentation:
 
 1. **Seed Selection**: Begin by selecting one or more seed points in the image. These seed points should ideally be chosen from regions of interest within the image. For example, if you want to segment objects like cells in a microscopy image, you might select seed points within the boundaries of those cells.

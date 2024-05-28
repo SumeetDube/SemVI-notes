@@ -1,6 +1,6 @@
-![[Pasted image 20240517012708.png]]
-![[Pasted image 20240517012728.png]]
-![[Pasted image 20240517012753.png]]
+![Pasted image 20240517012708](Pasted%20image%2020240517012708.png)
+![Pasted image 20240517012728](Pasted%20image%2020240517012728.png)
+![Pasted image 20240517012753](Pasted%20image%2020240517012753.png)
 
 The normalized cross-correlation method is a technique used in image processing and computer vision for template matching. Template matching is a process where a template image (or pattern) is compared against a larger image to find instances where the template closely resembles a part of the larger image. The normalized cross-correlation method measures the similarity between the template and various subregions of the larger image by computing their cross-correlation coefficient, which is then normalized to make it invariant to changes in brightness and contrast.
 

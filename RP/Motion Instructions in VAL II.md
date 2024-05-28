@@ -1,8 +1,8 @@
 ### Q.6. Program Instructions
 
 
-![[Pasted image 20240514223815.png]]
-![[Pasted image 20240514223831.png]]
+![Pasted image 20240514223815](Pasted%20image%2020240514223815.png)
+![Pasted image 20240514223831](Pasted%20image%2020240514223831.png)
 - **Control Flow:**
     
     - **IF-THEN-ELSE:** Executes a block of code conditionally based on a boolean expression.

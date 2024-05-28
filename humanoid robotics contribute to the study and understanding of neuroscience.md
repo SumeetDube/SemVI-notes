@@ -24,8 +24,8 @@ The field of humanoid robotics and neuroscience share a symbiotic relationship, 
 
 In summary, humanoid robotics serves as a valuable tool for studying and understanding various aspects of neuroscience, including sensorimotor control, brain-machine interfaces, rehabilitation, social interaction, and cognitive function. By bridging the gap between robotics and neuroscience, researchers can unravel the mysteries of the human brain and develop innovative technologies to improve human health and well-being.
 
-![[Pasted image 20240523213347.png]]
-![[Pasted image 20240523213405.png]]
-![[Pasted image 20240523213416.png]]
+![Pasted image 20240523213347](Pasted%20image%2020240523213347.png)
+![Pasted image 20240523213405](Pasted%20image%2020240523213405.png)
+![Pasted image 20240523213416](Pasted%20image%2020240523213416.png)
 
 

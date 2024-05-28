@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "Readm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,11 +141,15 @@
   },
   "active": "c8648e707d72754b",
   "lastOpenFiles": [
+    "README.md",
     "U3Notes.md",
-    "Index.md",
+    "Binary Tree.md",
+    "AS-RS system.md",
+    "ant colony optimization.md",
+    "A-star.md",
+    "HR/Humanoid Robot.md",
     "RP/RP IMP.md",
     "Humanoid Robot Numerical.md",
-    "HR/Humanoid Robot.md",
     "Zero Moment Point and stability.md",
     "significance of angular momentum and the inertia tensor in humanoid robotics.md",
     "multi-fingered grasping, and why is it important in robotics Discuss some applications of multi-fingered grasping in robotics..md",
@@ -173,12 +178,8 @@
     "Pasted image 20240523171026.png",
     "Pasted image 20240523171017.png",
     "Pasted image 20240523170938.png",
-    "Numerical.md",
     "TE (RA) Syllabus -2019 Course_230531_122611.pdf",
     "HR/HumanoidRobotsT.E ( 2019 PATTERN ).pdf",
-    "Draw and explain block diagrom offerd detectoin in vibration.md",
-    "FMS/FMS IMP.md",
-    "Tool Management Tool Room Service and Tool Allocation.md",
     "AS",
     "FMS/Flexibel Manufacturing Systems/Nov_Dec_2023.pdf",
     "FMS/Flexibel Manufacturing Systems/May_Jun_2023.pdf",

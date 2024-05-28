@@ -72,4 +72,4 @@ Tabu Search has been successfully applied to various optimization problems, incl
   - Performance heavily depends on the choice of neighborhood structures and tabu tenure strategies.
 
 Tabu Search is a versatile and powerful optimization technique that complements other metaheuristic algorithms like simulated annealing and genetic algorithms. Its success often depends on careful parameter tuning and problem-specific adaptations.
-![[Pasted image 20240516133232.png]]
+![Pasted image 20240516133232](Pasted%20image%2020240516133232.png)

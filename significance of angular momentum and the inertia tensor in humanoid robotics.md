@@ -36,19 +36,19 @@ If you try to get on a bicycle and balance without a kickstand, you will probabl
 
 It is the property of a rotating body given by the product of the moment of inertia and the angular velocity of the rotating object. It is a **vector quantity**, which implies that the direction is also considered here along with magnitude.
 
-![[Pasted image 20240523153327.png]]
+![Pasted image 20240523153327](Pasted%20image%2020240523153327.png)
 
 
 
 ----------------
 Angular momentum (𝐿⃗L) is a vector quantity that represents the rotational analog of linear momentum. For a point particle, it is defined as the cross product of the position vector (𝑟⃗r) and the linear momentum (𝑝⃗=𝑚𝑣⃗p​=mv), where 𝑚m is the mass of the particle and 𝑣⃗v is its velocity:
 
-![[Pasted image 20240523154345.png]]
+![Pasted image 20240523154345](Pasted%20image%2020240523154345.png)
 
-![[Pasted image 20240523154407.png]]
-![[Pasted image 20240523154855.png]]
-![[Pasted image 20240523154915.png]]
+![Pasted image 20240523154407](Pasted%20image%2020240523154407.png)
+![Pasted image 20240523154855](Pasted%20image%2020240523154855.png)
+![Pasted image 20240523154915](Pasted%20image%2020240523154915.png)
 
-![[Pasted image 20240523155524.png]]
+![Pasted image 20240523155524](Pasted%20image%2020240523155524.png)
 
-![[Pasted image 20240523162327.png]]
+![Pasted image 20240523162327](Pasted%20image%2020240523162327.png)

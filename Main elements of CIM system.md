@@ -92,16 +92,16 @@ All these elements are integrated and communicate with each other through a cent
 ---------------------
 Computer-integrated machines and automation systems in manufacturing goods are a matter of reference for computer-integrated manufacturing (CIM). CIM uses a range of innovations, such as CAD and CAM, to create an error-free production process that eliminates quality issues and automates repetitive tasks. The mechanical elements of the CIM system improve manufacturing speed and automate the production process with real-time sensors and closed-loop control systems. It has significant usage in vehicles, aircraft, space, and shipbuilding.
 
-![[Pasted image 20240520214815.png]]
+![Pasted image 20240520214815](Pasted%20image%2020240520214815.png)
 
 
 CIM is the information technology architecture for integrated engineering, marketing, and production functions. In the broadest sense, CIM combines all corporate operations, from the retailer to the end user.
 
-![[Pasted image 20240520214915.png]]
+![Pasted image 20240520214915](Pasted%20image%2020240520214915.png)
 
 There are nine major computerized elements of CIM system:
 
-![[Pasted image 20240520214948.png]]
+![Pasted image 20240520214948](Pasted%20image%2020240520214948.png)
 
 **Marketing**: The marketing division identifies the need for a product. The marketing department also decides the specifications of the product, the projection of manufacturing quantities, and the strategy for marketing the product. Marketing also works out the manufacturing costs to assess the economic viability of the product.
 
@@ -109,8 +109,8 @@ There are nine major computerized elements of CIM system:
 
 Planning: The planning department takes the database established by the design department and enriches it with production data and information to produce a plan for the production of the product. Planning involves several subsystems dealing with materials, facility, process, tools, workforce, capacity, scheduling, outsourcing, assembly, inspection, logistics, etc. In a computerized element
 
-![[Pasted image 20240520215658.png]]
-![[Pasted image 20240520215712.png]]
+![Pasted image 20240520215658](Pasted%20image%2020240520215658.png)
+![Pasted image 20240520215712](Pasted%20image%2020240520215712.png)
 
 
 

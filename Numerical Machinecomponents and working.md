@@ -5,8 +5,8 @@ A Numerical Control (NC) system is used in manufacturing processes to control ma
 ```
 Input -> MCU -> Drive System - > Machine -Tool -> feedback system ->
 ```
-![[Pasted image 20240520213459.png]]
-![[Pasted image 20240520213517.png]]
+![Pasted image 20240520213459](Pasted%20image%2020240520213459.png)
+![Pasted image 20240520213517](Pasted%20image%2020240520213517.png)
 1. **Input Device:**
     
     - **Function:** The input device is used to input the part program (set of instructions) into the NC system. This can be done through punched tapes, magnetic tapes, or more modern methods like computer-aided design (CAD) files or direct numerical control (DNC) systems.

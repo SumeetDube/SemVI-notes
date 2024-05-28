@@ -1,5 +1,5 @@
-![[Pasted image 20240520231630.png]]
-![[Pasted image 20240520231656.png]]
+![Pasted image 20240520231630](Pasted%20image%2020240520231630.png)
+![Pasted image 20240520231656](Pasted%20image%2020240520231656.png)
 
 
 ### Tool Management

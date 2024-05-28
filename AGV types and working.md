@@ -1,10 +1,10 @@
-![[Pasted image 20240520223622.png]]
-![[Pasted image 20240520223601.png]]
+![Pasted image 20240520223622](Pasted%20image%2020240520223622.png)
+![Pasted image 20240520223601](Pasted%20image%2020240520223601.png)
 
 ------------
-![[Pasted image 20240520224258.png]]
+![Pasted image 20240520224258](Pasted%20image%2020240520224258.png)
 
-![[Pasted image 20240520224315.png]]
+![Pasted image 20240520224315](Pasted%20image%2020240520224315.png)
 Automated Guided Vehicles (AGVs) are mobile robots used in industrial applications to transport materials and products within a manufacturing facility or warehouse. They operate without human intervention, following predefined paths or navigating through environments using various guidance technologies. Here are the different types of AGVs and their principles of working:
 
 ### 1. Tow Vehicles (Towing AGVs)

@@ -1,5 +1,5 @@
 
-![[Pasted image 20240516131151.png]]
+![Pasted image 20240516131151](Pasted%20image%2020240516131151.png)
 
 A Real-Coded Genetic Algorithm (RCGA) is a variant of the classic Genetic Algorithm (GA) designed specifically for continuous optimization problems where solutions are represented as ``real-valued vectors ``(also known as "chromosomes" or "genomes"). Unlike traditional ``binary-coded GAs``, which operate on fixed-length strings of binary digits, RCGAs can handle variable-length vectors of real numbers directly.
 

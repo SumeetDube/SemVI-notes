@@ -1,8 +1,8 @@
 
-![[Pasted image 20240520231041.png]]
-![[Pasted image 20240520231052.png]]
-![[Pasted image 20240520231122.png]]
-![[Pasted image 20240520231141.png]]
+![Pasted image 20240520231041](Pasted%20image%2020240520231041.png)
+![Pasted image 20240520231052](Pasted%20image%2020240520231052.png)
+![Pasted image 20240520231122](Pasted%20image%2020240520231122.png)
+![Pasted image 20240520231141](Pasted%20image%2020240520231141.png)
 
 ---------------
 Tool strategies refer to various approaches and methods used to select, manage, and utilize tools in different processes, particularly in manufacturing and machining. These strategies are essential to optimize productivity, ensure quality, and reduce costs. Here are some common types of tool strategies along with detailed explanations of each:

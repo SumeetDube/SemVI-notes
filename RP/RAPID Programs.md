@@ -1,6 +1,6 @@
 
-![[Pasted image 20240514173433.png]]
-![[Pasted image 20240514173443.png]]
+![Pasted image 20240514173433](Pasted%20image%2020240514173433.png)
+![Pasted image 20240514173443](Pasted%20image%2020240514173443.png)
 
 
 	
@@ -14,10 +14,10 @@ Here's a RAPID program for an ABB robot to perform a pick and place operation fr
 
 ```
 MODULE PickAndPlace
-  CONST robtarget P1:=[[500,500,50],[0.5,0,0.866025,0]];
-  CONST robtarget P2:=[[500,-500,50],[0.5,0,0.866025,0]];
-  CONST robtarget Home:=[[0,0,0],[1,0,0,0]];
-  PERS tooldata tool_grip:=[TRUE,[[0,0,100],[1,0,0,0]],[0.001,[0,0,0.001],[1,0,0,0],0,0,0.005,0.005,0.005,0.01,0.005,0.01]];
+  CONST robtarget P1:=[500,500,50](500,500,50);
+  CONST robtarget P2:=[500,-500,50](500,-500,50);
+  CONST robtarget Home:=[0,0,0](0,0,0);
+  PERS tooldata tool_grip:=[TRUE,[0,0,100](0,0,100),[0.001,[0,0,0.001],[1,0,0,0],0,0,0.005,0.005,0.005,0.01,0.005,0.01]];
 
   PROC main()
     MoveJ Home,v1000,fine,tool_grip;   ! Move to home position
@@ -133,8 +133,8 @@ Here's a RAPID program for a drilling operation from point P1(150, 200, 50) to P
 
 ```
 MODULE DrillingOperation
-    CONST robtarget P1:=[[150,200,50],[0,0.707,0.707,0]];
-    CONST robtarget P2:=[[200,350,50],[0,0.707,0.707,0]];
+    CONST robtarget P1:=[150,200,50](150,200,50);
+    CONST robtarget P2:=[200,350,50](200,350,50);
     CONST num hole_diameter:=10;
     CONST num hole_depth:=50;
     
@@ -156,8 +156,8 @@ ENDMODULE
 Here's a breakdown of the program:
 
 1. `MODULE DrillingOperation`: Defines the module name.
-2. `CONST robtarget P1:=[[150,200,50],[0,0.707,0.707,0]];`: Defines the first point P1 with its coordinates and orientation.
-3. `CONST robtarget P2:=[[200,350,50],[0,0.707,0.707,0]];`: Defines the second point P2 with its coordinates and orientation.
+2. `CONST robtarget P1:=[150,200,50](150,200,50);`: Defines the first point P1 with its coordinates and orientation.
+3. `CONST robtarget P2:=[200,350,50](200,350,50);`: Defines the second point P2 with its coordinates and orientation.
 4. `CONST num hole_diameter:=10;`: Defines the hole diameter as 10mm.
 5. `CONST num hole_depth:=50;`: Defines the hole depth as 50mm.
 6. `PROC main()`: The main procedure that executes the drilling operation.

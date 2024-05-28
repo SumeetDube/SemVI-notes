@@ -1,4 +1,4 @@
-![[Pasted image 20240514150020.png]]
+![Pasted image 20240514150020](Pasted%20image%2020240514150020.png)
 ```
 ; Program to unload a part from Machine 1 and load it onto Machine 2
 ; Define locations
@@ -31,5 +31,5 @@ HOME ; Move to the home position
 
 END ; End of program
 ```
-![[Pasted image 20240514150052.png]]
-![[Pasted image 20240514224356.png]]
+![Pasted image 20240514150052](Pasted%20image%2020240514150052.png)
+![Pasted image 20240514224356](Pasted%20image%2020240514224356.png)

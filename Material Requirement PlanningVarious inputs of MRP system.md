@@ -1,5 +1,5 @@
-![[Pasted image 20240520220831.png]]
-![[Pasted image 20240520220913.png]]
+![Pasted image 20240520220831](Pasted%20image%2020240520220831.png)
+![Pasted image 20240520220913](Pasted%20image%2020240520220913.png)
 
 ----------------------
 Material Requirements Planning (MRP) is a systematic approach used in manufacturing for calculating the materials and components needed to produce a product. MRP ensures that materials are available for production and products are available for delivery to customers while maintaining the lowest possible level of inventory. It is a critical component of manufacturing resource planning (MRP II) and enterprise resource planning (ERP) systems.

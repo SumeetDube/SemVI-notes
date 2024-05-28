@@ -35,12 +35,12 @@ Deriving the dynamic equations of motion for a humanoid robot in 3D involves sev
     - Combine the contributions of all links to obtain the full equations of motion for the robot.
     - Consider external forces and moments, including ground contact forces.
 
-![[Pasted image 20240523202441.png]]
+![Pasted image 20240523202441](Pasted%20image%2020240523202441.png)
 
-![[Pasted image 20240523160542.png]]
-![[Pasted image 20240523160636.png]]
-![[Pasted image 20240523160655.png]]
-![[Pasted image 20240523160718.png]]
+![Pasted image 20240523160542](Pasted%20image%2020240523160542.png)
+![Pasted image 20240523160636](Pasted%20image%2020240523160636.png)
+![Pasted image 20240523160655](Pasted%20image%2020240523160655.png)
+![Pasted image 20240523160718](Pasted%20image%2020240523160718.png)
 
 
 ----------------
@@ -87,7 +87,7 @@ By using 2D analysis, researchers and engineers can:
     
     - Design and test motion trajectories for the robot's limbs and overall body movement.
 
-![[Pasted image 20240523202624.png]]
+![Pasted image 20240523202624](Pasted%20image%2020240523202624.png)
 
 
 

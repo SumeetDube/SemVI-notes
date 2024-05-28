@@ -1,7 +1,7 @@
-![[Pasted image 20240520215912.png]]
+![Pasted image 20240520215912](Pasted%20image%2020240520215912.png)
 
 Computer Aided Process Planning (CAPP) is a crucial aspect of modern manufacturing systems, which bridges the gap between Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM). It involves the use of computer systems to develop detailed process plans for manufacturing products. These plans specify the sequence of operations, the machines and tools required, and the specific parameters for each operation. 
-![[Pasted image 20240520220056.png]]
+![Pasted image 20240520220056](Pasted%20image%2020240520220056.png)
 ### Key Components of CAPP
 
 1. **Part Information Input:**

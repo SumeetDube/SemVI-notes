@@ -25,17 +25,17 @@ The Zero Moment Point (ZMP) is a fundamental concept in humanoid robotics that p
 Roboticists use sensors and control systems to monitor the robot's posture and calculate the ZMP in real-time. Force sensors in the feet, along with inertial measurement units (IMUs), provide data on the robot's dynamics. Control algorithms then adjust the robot's joint positions and body posture to keep the ZMP within the desired range, ensuring stability. This can involve shifting the robot's center of mass, changing limb positions, or altering joint angles to respond to changes in the environment or movement
 
 
-![[Pasted image 20240523170830.png]]
-![[Pasted image 20240523170837.png]]
+![Pasted image 20240523170830](Pasted%20image%2020240523170830.png)
+![Pasted image 20240523170837](Pasted%20image%2020240523170837.png)
 
-![[Pasted image 20240523170851.png]]
+![Pasted image 20240523170851](Pasted%20image%2020240523170851.png)
 
-![[Pasted image 20240523170903.png]]
-![[Pasted image 20240523170911.png]]
-![[Pasted image 20240523170929.png]]
-![[Pasted image 20240523170938.png]]
+![Pasted image 20240523170903](Pasted%20image%2020240523170903.png)
+![Pasted image 20240523170911](Pasted%20image%2020240523170911.png)
+![Pasted image 20240523170929](Pasted%20image%2020240523170929.png)
+![Pasted image 20240523170938](Pasted%20image%2020240523170938.png)
 
-![[Pasted image 20240523171017.png]]
-![[Pasted image 20240523171026.png]]
-![[Pasted image 20240523171033.png]]
-![[Pasted image 20240523171043.png]]
+![Pasted image 20240523171017](Pasted%20image%2020240523171017.png)
+![Pasted image 20240523171026](Pasted%20image%2020240523171026.png)
+![Pasted image 20240523171033](Pasted%20image%2020240523171033.png)
+![Pasted image 20240523171043](Pasted%20image%2020240523171043.png)
