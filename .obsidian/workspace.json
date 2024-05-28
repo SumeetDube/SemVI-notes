@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "74a5ddda27b85846",
+    "type": "split",
+    "children": [
+      {
+        "id": "0703809dfec8e90a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8648e707d72754b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3c81ecc25fb4bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0906c7df71304b97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666939ca7a2577a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "436e05f8f5d3d13a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a9ee5ddafbde39e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3d7c6ce4e530d721",
+    "type": "split",
+    "children": [
+      {
+        "id": "7173d9c8f25c86d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804ef365cb7a3b37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4af5e7a7ec3b106d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c4b1d7f336609ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb32ce758fd8aaea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8648e707d72754b",
+  "lastOpenFiles": [
+    "U3Notes.md",
+    "Index.md",
+    "RP/RP IMP.md",
+    "Humanoid Robot Numerical.md",
+    "HR/Humanoid Robot.md",
+    "Zero Moment Point and stability.md",
+    "significance of angular momentum and the inertia tensor in humanoid robotics.md",
+    "multi-fingered grasping, and why is it important in robotics Discuss some applications of multi-fingered grasping in robotics..md",
+    "multi-arm object manipulation controlState the advantages of using multiple robot arms for object manipulation.md",
+    "humanoid robots be used to emulate neuro-mechanisms and contribute to our understanding of brain function.md",
+    "humanoid robotics contribute to the study and understanding of neuroscience.md",
+    "foveal vision be implemented in humanoid robots What is cognitive human robotics.md",
+    "Untitled.canvas",
+    "foveal vision and it's important for humanoid robots..md",
+    "Pasted image 20240523213416.png",
+    "Pasted image 20240523213405.png",
+    "Pasted image 20240523213347.png",
+    "Pasted image 20240523202624.png",
+    "Pasted image 20240523202441.png",
+    "AIFR IMP.md",
+    "Social Robotics.md",
+    "Service robots.md",
+    "A.I. in Robotics.md",
+    "Concept of AI.md",
+    "Humanoids in sports.md",
+    "Search and rescue humanoid robots.md",
+    "challenges in controlling multiple robot arms for object manipulation.md",
+    "effective multi-fingered grasping in robotics.md",
+    "Pasted image 20240523171043.png",
+    "Pasted image 20240523171033.png",
+    "Pasted image 20240523171026.png",
+    "Pasted image 20240523171017.png",
+    "Pasted image 20240523170938.png",
+    "Numerical.md",
+    "TE (RA) Syllabus -2019 Course_230531_122611.pdf",
+    "HR/HumanoidRobotsT.E ( 2019 PATTERN ).pdf",
+    "Draw and explain block diagrom offerd detectoin in vibration.md",
+    "FMS/FMS IMP.md",
+    "Tool Management Tool Room Service and Tool Allocation.md",
+    "AS",
+    "FMS/Flexibel Manufacturing Systems/Nov_Dec_2023.pdf",
+    "FMS/Flexibel Manufacturing Systems/May_Jun_2023.pdf",
+    "RP/Robot Programming/robot-programming-lozano-perez-83.pdf",
+    "RP/Robot Programming/Unit 5.pdf",
+    "RP/Robot Programming/Unit 4_Robot Vision.pdf",
+    "RP/Robot Programming/Unit 4.pdf",
+    "RP/Robot Programming/Unit 3.pdf"
+  ]
+}

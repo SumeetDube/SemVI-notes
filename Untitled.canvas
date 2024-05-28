@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"44eca852e41f6b67","x":2260,"y":109,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6f420da6e3cca5bf","type":"text","text":"","x":160,"y":-160,"width":250,"height":60},
+		{"id":"3db8425c1ada7761","type":"file","file":"HR/Humanoid Robot.md","x":720,"y":-480,"width":900,"height":1240,"color":"3"},
+		{"id":"6cf5e0cbd9252a52","x":1788,"y":777,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8f68a81a5cb4b831","x":2977,"y":280,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2079bcf2ce5b879c","x":2802,"y":562,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
