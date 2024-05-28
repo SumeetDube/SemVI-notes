@@ -2,9 +2,9 @@
 
 The Naive Bayes (NB) classifier is a simple probabilistic classifier based on Bayes' theorem with a strong (naive) assumption of feature independence. Despite its simplicity, Naive Bayes classifiers are widely used in various machine learning applications, especially in text classification and spam filtering.
 
-| ![](Pasted%20image%2020240528214353.png) |
+| ![Pasted image 20240528214353](Pasted%20image%2020240528214353.png) |
 | ---------------------------------------- |
-| ![](Pasted%20image%2020240528214424.png) |
+| ![Pasted image 20240528214424](Pasted%20image%2020240528214424.png) |
 |                                          |
 ### Types of Naive Bayes Classifiers
 

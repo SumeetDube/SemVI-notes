@@ -42,7 +42,7 @@ A linear equation is an equation that forms a straight line when graphed. It is 
    - Back-substitute to find the solution.
    - **Example**:
      - Equations: \( x + y = 3 \) and \( x - y = 1 \).
-     ![](Pasted%20image%2020240528153511.png)
+     ![Pasted image 20240528153511](Pasted%20image%2020240528153511.png)
 ### Example Summary
 - **Equations**: \( x + y = 3 \), \( x - y = 1 \)
 - **Solution**: \( (2, 1) \)

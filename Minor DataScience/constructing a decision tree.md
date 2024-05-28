@@ -27,8 +27,8 @@ A decision tree is a popular machine learning algorithm used for both classifica
 Feature selection in a decision tree is inherently performed during the tree construction process. The algorithm selects the best feature to split the data at each step based on a splitting criterion. This process continues recursively, and features that provide the best separation are naturally chosen higher up in the tree, indicating their importance.
 
 
-![](Pasted%20image%2020240528214139.png)
-![](Pasted%20image%2020240528214201.png)
+![Pasted image 20240528214139](Pasted%20image%2020240528214139.png)
+![Pasted image 20240528214201](Pasted%20image%2020240528214201.png)
 
 ### Example
 

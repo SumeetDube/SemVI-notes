@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Minor DataScience/Statistics and Machine Learning.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -169,8 +169,9 @@
   },
   "active": "922d0e0508c17d52",
   "lastOpenFiles": [
-    "Minor DataScience/Working and types of Naive Bayes classifier.md",
+    "README.md",
     "Minor DataScience/Statistics and Machine Learning.md",
+    "Minor DataScience/Working and types of Naive Bayes classifier.md",
     "Minor DataScience/Pasted image 20240528214424.png",
     "Minor DataScience/Pasted image 20240528214353.png",
     "Minor DataScience/constructing a decision tree.md",
@@ -204,7 +205,6 @@
     "Minor DataScience/Chain Rule in Calculus.md",
     "Minor DataScience/Difference between Jacobian, Hessian and the gradient function.md",
     "Minor DataScience/Linear Equations.md",
-    "README.md",
     "Minor DataScience/May - Jun 2022.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

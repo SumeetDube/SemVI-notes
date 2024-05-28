@@ -9,10 +9,10 @@
 # Unit 4 : 
 
 [Main elements of CIM system](../Main%20elements%20of%20CIM%20system.md)
-[Computer Aided Process Planning ( CAPP)](%20CAPP)).md)
+[Computer Aided Process Planning ( CAPP)](%20CAPP))).md)
 [Concept of ERP](../Concept%20of%20ERP.md)
 
-[Computer Aided Inspectioon(CAI)](CAI)).md)
+[Computer Aided Inspectioon(CAI)](CAI))).md)
 [Material Requirement PlanningVarious inputs of MRP system](../Material%20Requirement%20PlanningVarious%20inputs%20of%20MRP%20system.md)
 
 # Unit 5 : 

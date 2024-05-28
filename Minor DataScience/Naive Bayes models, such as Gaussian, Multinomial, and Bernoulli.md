@@ -13,10 +13,10 @@ This model predicts the probability of an instance belongs to a class with a giv
 Naive Bayes classifiers are a family of simple yet effective probabilistic classifiers based on Bayes' Theorem with a strong (naive) assumption of independence between the features. There are several types of Naive Bayes models, each tailored to different types of data. The most common types are Gaussian Naive Bayes, Multinomial Naive Bayes, and Bernoulli Naive Bayes.
 
 
-![](Pasted%20image%2020240528213108.png)
-![](Pasted%20image%2020240528213144.png)
+![Pasted image 20240528213108](Pasted%20image%2020240528213108.png)
+![Pasted image 20240528213144](Pasted%20image%2020240528213144.png)
 
-![](Pasted%20image%2020240528213158.png)
+![Pasted image 20240528213158](Pasted%20image%2020240528213158.png)
 
 ### Summary of Differences
 

@@ -26,5 +26,5 @@ Here, \( y = f(u) = \sin(u) \) and \( u = g(x) = x^2 \).
    $$
    \frac{dy}{du} = \cos(u)
    $$
-![](Pasted%20image%2020240528180113.png)
-![](Pasted%20image%2020240528180159.png)
+![Pasted image 20240528180113](Pasted%20image%2020240528180113.png)
+![Pasted image 20240528180159](Pasted%20image%2020240528180159.png)

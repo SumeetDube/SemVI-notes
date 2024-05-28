@@ -9,7 +9,7 @@
 
 `Minor` : Data Science 
 
-[Statistics and Machine Learning](Statistics%20and%20Machine%20Learning.md)
+[Statistics and Machine Learning](Minor%20DataScience/Statistics%20and%20Machine%20Learning.md)
 
 
 

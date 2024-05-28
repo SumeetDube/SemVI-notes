@@ -17,6 +17,6 @@ Multivariate calculus is an extension of calculus that deals with functions of s
 Overall, multivariate calculus provides powerful tools for understanding and analyzing functions of several variables, enabling us to solve complex problems in various fields.
 
 
-![](Pasted%20image%2020240528182734.png)
-![](Pasted%20image%2020240528182753.png)
+![Pasted image 20240528182734](Pasted%20image%2020240528182734.png)
+![Pasted image 20240528182753](Pasted%20image%2020240528182753.png)
 

@@ -1,6 +1,6 @@
 	Draw and Explain Reinforcement Learning. Explain how does it work?
 
-![](Pasted%20image%2020240528191214.png)
+![Pasted image 20240528191214](Pasted%20image%2020240528191214.png)
 
 Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent learns through trial and error, receiving feedback in the form of rewards or penalties, without explicit supervision or labeled input-output pairs. Here's how reinforcement learning works:
 
