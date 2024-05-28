@@ -7,5 +7,9 @@
 [Humanoid Robot](HR/Humanoid%20Robot.md)
 
 
+`Minor` : Data Science 
+
+[Statistics and Machine Learning](Statistics%20and%20Machine%20Learning.md)
+
 
 

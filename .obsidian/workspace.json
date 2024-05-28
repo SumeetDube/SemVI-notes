@@ -11,11 +11,36 @@
             "id": "c8648e707d72754b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Minor DataScience/May_Jun_2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "6e9f286b63e2a3b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Minor DataScience/May_Jun_2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "922d0e0508c17d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minor DataScience/Statistics and Machine Learning.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Readm",
+                "query": "Readme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minor DataScience/Statistics and Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Minor DataScience/Statistics and Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Minor DataScience/Statistics and Machine Learning.md"
+              }
             }
           }
         ]
@@ -139,45 +167,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8648e707d72754b",
+  "active": "922d0e0508c17d52",
   "lastOpenFiles": [
+    "Minor DataScience/Working and types of Naive Bayes classifier.md",
+    "Minor DataScience/Statistics and Machine Learning.md",
+    "Minor DataScience/Pasted image 20240528214424.png",
+    "Minor DataScience/Pasted image 20240528214353.png",
+    "Minor DataScience/constructing a decision tree.md",
+    "Minor DataScience/Pasted image 20240528214201.png",
+    "Minor DataScience/Pasted image 20240528214139.png",
+    "Minor DataScience/What are advantages and disadvantages of NBmodel. What are various Applications of NBmode.md",
+    "Minor DataScience/Naive Bayes models, such as Gaussian, Multinomial, and Bernoulli.md",
+    "Minor DataScience/Pasted image 20240528213158.png",
+    "Minor DataScience/Pasted image 20240528213144.png",
+    "Minor DataScience/Pasted image 20240528213108.png",
+    "Minor DataScience/May_Jun_2023.pdf",
+    "Minor DataScience/hypothesis space search in decision tree learning.md",
+    "Minor DataScience/Decision tree.md",
+    "Minor DataScience/Machine Learning for Health Data Analytics.md",
+    "Minor DataScience/Training a regression model using a dataset.md",
+    "Minor DataScience/Cross Validation in evaluation a regression model.md",
+    "Minor DataScience/Cost function and gradient descent.md",
+    "Minor DataScience/Pasted image 20240528192802.png",
+    "Minor DataScience/Pasted image 20240528192725.png",
+    "Minor DataScience/Pasted image 20240528192701.png",
+    "Minor DataScience/Different Types of Regression model.md",
+    "Minor DataScience/Machine Learning models for NETFLIX usage.md",
+    "Minor DataScience/Reinforcement Learning.md",
+    "Minor DataScience/Machine Learning and Issues with Machine Learning and Applications.md",
+    "Minor DataScience/Difference between Supervised and Unsupervised Learning.md",
+    "Minor DataScience/Machine Learning  types and models.md",
+    "Minor DataScience/Partial Derivatie.md",
+    "Minor DataScience/Multivariae Calculus.md",
+    "Minor DataScience/Means for function to be continuous and differentiable.md",
+    "Minor DataScience/Difference between Eigen Values and Eigen Vector.md",
+    "Minor DataScience/Chain Rule in Calculus.md",
+    "Minor DataScience/Difference between Jacobian, Hessian and the gradient function.md",
+    "Minor DataScience/Linear Equations.md",
     "README.md",
-    "U3Notes.md",
-    "Binary Tree.md",
-    "AS-RS system.md",
-    "ant colony optimization.md",
-    "A-star.md",
-    "HR/Humanoid Robot.md",
-    "RP/RP IMP.md",
-    "Humanoid Robot Numerical.md",
-    "Zero Moment Point and stability.md",
-    "significance of angular momentum and the inertia tensor in humanoid robotics.md",
-    "multi-fingered grasping, and why is it important in robotics Discuss some applications of multi-fingered grasping in robotics..md",
-    "multi-arm object manipulation controlState the advantages of using multiple robot arms for object manipulation.md",
-    "humanoid robots be used to emulate neuro-mechanisms and contribute to our understanding of brain function.md",
-    "humanoid robotics contribute to the study and understanding of neuroscience.md",
-    "foveal vision be implemented in humanoid robots What is cognitive human robotics.md",
+    "Minor DataScience/May - Jun 2022.pdf",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "foveal vision and it's important for humanoid robots..md",
-    "Pasted image 20240523213416.png",
-    "Pasted image 20240523213405.png",
-    "Pasted image 20240523213347.png",
-    "Pasted image 20240523202624.png",
-    "Pasted image 20240523202441.png",
-    "AIFR IMP.md",
-    "Social Robotics.md",
-    "Service robots.md",
-    "A.I. in Robotics.md",
-    "Concept of AI.md",
-    "Humanoids in sports.md",
-    "Search and rescue humanoid robots.md",
-    "challenges in controlling multiple robot arms for object manipulation.md",
-    "effective multi-fingered grasping in robotics.md",
-    "Pasted image 20240523171043.png",
-    "Pasted image 20240523171033.png",
-    "Pasted image 20240523171026.png",
-    "Pasted image 20240523171017.png",
-    "Pasted image 20240523170938.png",
     "TE (RA) Syllabus -2019 Course_230531_122611.pdf",
     "HR/HumanoidRobotsT.E ( 2019 PATTERN ).pdf",
     "AS",
@@ -185,8 +216,6 @@
     "FMS/Flexibel Manufacturing Systems/May_Jun_2023.pdf",
     "RP/Robot Programming/robot-programming-lozano-perez-83.pdf",
     "RP/Robot Programming/Unit 5.pdf",
-    "RP/Robot Programming/Unit 4_Robot Vision.pdf",
-    "RP/Robot Programming/Unit 4.pdf",
-    "RP/Robot Programming/Unit 3.pdf"
+    "RP/Robot Programming/Unit 4_Robot Vision.pdf"
   ]
 }
