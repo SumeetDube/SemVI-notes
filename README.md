@@ -1,3 +1,5 @@
+This Obsidian Vault contains all the notes for semVI endsem exam.
+
 [RP IMP](RP/RP%20IMP.md)
 
 [AIFR IMP](AIFR%20IMP.md)
